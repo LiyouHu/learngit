@@ -5,3 +5,5 @@ Git tracks changes of files.
 1
 Create a new branch is quick AND simple
 2
+---------------------
+append 3
